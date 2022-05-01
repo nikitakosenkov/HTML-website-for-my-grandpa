@@ -1,0 +1,168 @@
+body {
+    background-color: rgb(179, 212, 255);
+    color:rgb(216, 216, 216);
+    font-size: 16px;
+    font-weight: 500;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    
+}
+
+.avatar {
+    width: 250px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.50);
+}
+
+.info p {
+    color:rgb(255, 255, 255);   
+    text-decoration: underline;
+}
+.container {
+    max-width: 750px;
+    margin: auto;
+}
+
+.tag {
+    font-size:100px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow:  4px 4px 14px rgba(54, 54, 54, 0.8);
+    margin: 0px;
+    text-align: center;
+}
+
+.bebra {
+    margin: 0px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    font-size: 23px;
+    color:rgb(32, 0, 146);
+}
+
+.bebr {
+    text-shadow: 1px 0 1px #000, 0 1px 1px #000, -1px 0 1px #000, 0 -1px 1px #000;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 25px;
+    margin: 25px;
+}
+.avata {
+    width: 220px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.50);
+}
+
+.bober {
+    font-size: 16px;
+    margin: 0;
+    margin-left: 15px;
+}
+
+.head {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 0px;
+}
+
+.avat {
+    width:165px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.50);
+    text-align: center;
+    margin-left: 40px;
+}
+
+.bobe {
+    font-size: 16px;
+    margin: 0;
+    margin-left: 120px;
+    text-align: center;
+}
+
+.ava {
+    width:160px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.50);
+    margin-left: 79px;
+}
+
+.bob {
+    font-size: 16px;
+    margin: 0;
+    margin-left: 90px;
+}
+
+.wqwq {
+    font-size: 20px;
+    text-shadow: 1px 0 1px #000, 0 1px 1px #000, -1px 0 1px #000, 0 -1px 1px #000;
+}
+
+.gpd {
+    color:rgb(2, 0, 150);    
+}
+
+.frt {
+    color:rgb(148, 0, 0);
+}
+
+.info {
+    text-shadow:  4px 4px 14px rgba(54, 54, 54, 0.8);
+    color:rgb(25, 22, 170);
+}
+.avatarr {
+    width: 250px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.50);
+    margin-left: 450px;
+}
+.avatarrr {
+    width: 300px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.50);
+    margin-left: 450px;
+}
+.avatarrrr {
+    width: 300px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.50);
+    margin-bottom: 70px;
+    margin-left: 220px;
+}
+
+.avatarrrrr {
+    width: 500px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.50);
+    margin-bottom: 70px;
+    margin-left: 120px;
+}
+.tags {
+    text-shadow:  4px 4px 14px rgba(54, 54, 54, 0.9);
+    margin: 0px;
+    text-align: center;
+    color: rgb(0, 3, 179);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+
+.av {
+    width:250px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.50);
+    margin-left: 20px;
+}
+
+.bebik {
+    font-size:40px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 1px 0 1px #000, 0 1px 1px #000, -1px 0 1px #000, 0 -1px 1px #000;
+    margin: 0px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-top: 15px;
+    text-shadow:  4px 4px 14px rgba(3, 3, 3, 1);
+}
+
+
+
